@@ -1,5 +1,6 @@
 This is Student Managament System with C language and SQL lite as database 
 The functionality are:-
+
 ✅ 1. Add Student Record  
 Each student has a Student ID, Name, Marks{ Maths, Science, English}, and Department.
 New student records should be inserted at the end. 
